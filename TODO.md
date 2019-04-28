@@ -6,13 +6,13 @@ TODO
      - [x] 1 -> "1"
     - [x] 2 -> "2"
     
-- [ ] 3の倍数なら"Fizz"
-    - [ ] 3 -> "Fizz"
-    - [ ] 6 -> "Fizz"
+- [x] 3の倍数なら"Fizz"
+    - [x] 3 -> "Fizz"
+    - [x] 6 -> "Fizz"
     
-- [ ] 5の倍数なら"Buzz"
-    - [ ] 5 -> "Buzz"
-    - [ ] 10 -> "Buzz"
+- [x] 5の倍数なら"Buzz"
+    - [x] 5 -> "Buzz"
+    - [x] 10 -> "Buzz"
     
 -[ ] 15の倍数なら"FizzBuzz"
     -[ ] 15 -> "FizzBuzz"
